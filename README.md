@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @DerAnsari
-- 👀 I’m interested in WebDev Cloud computing Blackchain technology
+- 👋 Hi, I’m Sarmad Ansari
+- 👀 I’m interested in WebDev, Cloud computing, Blackchain technology, etc
 - 🌱 I’m currently learning FrontEnd WebDev
 
-- 📫 How to reach me https://www.linkedin.com/in/sarmad-ansari-ab57862b9/ 
+- 📫 How to reach me My Insta or Linked-in
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact, im an Art Enjoyer
+- ⚡ *World.execute(me) Plays in background
 
 <!---
 DerAnsari/DerAnsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
