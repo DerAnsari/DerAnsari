@@ -3,7 +3,7 @@
 - I’m currently learning FrontEnd WebDev
 - Reach me via my Insta or Linked-In
 - Pronouns: He/Him
-- MIKU MIKU BEAM
+- 🎙️MIKU MIKU BEAM
 
 <!---
 DerAnsari/DerAnsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
