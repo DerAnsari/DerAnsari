@@ -1,9 +1,9 @@
 - Hi, I’m Sarmad Ansari
-- Student of Comp-Sci, interested in Data Science 
-- I’m currently learning FrontEnd WebDev
+- Student of Comp-Sci, interested in Data Science and Machine Learning
+- I’m currently learning WebDev and Python
 - Reach me via my Insta or Linked-In
 - Pronouns: He/Him
-- 🎙️MIKU MIKU BEAM!!!!!
+- Miku🎙️
 
 <!---
 DerAnsari/DerAnsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
