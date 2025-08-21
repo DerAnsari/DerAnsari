@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Sarmad
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=yellow&lines=CS+Student;Aspiring+ML+Engineer;Linux+Enthusiast)](https://git.io/typing-svg)
+## 👋 Hi, I’m Sarmad
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=yellow&lines=Quant+Development;Machine+Learning+Engineer;Linux+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me
+###  About Me:-
 - 🎓 BSCS student at IBA Karachi  
-- 💻 Interested in **Machine Learning, Data Science, and Full-Stack Development**  
-- 🐧 Arch Linux + Neovim user  
+- 📚 Philosopy and Clasical Literature Fan 
+- 🐧 Arch Linux + Neovim user BTW 
 
 ---
 
