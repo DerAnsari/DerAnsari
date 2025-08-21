@@ -1,8 +1,8 @@
-# Hey there! I'm Sarmad 🌾
+
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Iosevka&size=22&duration=3000&pause=1000&color=EBDBB2&background=282828&center=true&vCenter=true&width=500&lines=Quant+Development;Machine+Learning+Engineer;Linux+Enthusiast;Philosophy+%26+Literature+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Iosevka&size=22&duration=3000&pause=1000&color=EBDBB2&background=282828&center=true&vCenter=true&width=500&lines=Quant+Development;Machine+Learning+Engineering;Linux+Enthusiasm)](https://git.io/typing-svg)
 
 </div>
 
