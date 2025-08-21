@@ -18,23 +18,6 @@
 
 ---
 
-## 📌 Featured Projects
-- 🔹 [OEE System Automation](https://github.com/YOUR_USERNAME/OEE-system) – Excel + PowerShell automation for calibration management  
-- 🔹 [GPT Chatbot](https://github.com/YOUR_USERNAME/chatbot) – AI chatbot using OpenAI API  
-- 🔹 [Portfolio Website](https://github.com/YOUR_USERNAME/portfolio) – React + Tailwind  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=gruvbox)](https://git.io/streak-stats)
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
 <!---
 DerAnsari/DerAnsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
