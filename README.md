@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Iosevka&size=22&duration=3000&pause=1000&color=EBDBB2&background=282828&center=true&vCenter=true&width=500&lines=Hello+There..;Quant+Development..;Machine+Learning+Engineering..;Linux/Foss+Enthusiasm..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Iosevka&size=22&duration=3000&pause=1000&color=EBDBB2&background=282828&center=true&vCenter=true&width=500&lines=Hello+There..;Low+Level..;Embedded+System+Engineering..;Linux/Foss+Enthusiasm..)](https://git.io/typing-svg)
 
 </div>
 
