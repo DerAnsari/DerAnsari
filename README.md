@@ -22,7 +22,7 @@
 ![C++](https://img.shields.io/badge/C++-FB4934?style=for-the-badge&logo=cplusplus&logoColor=FBF1C7&labelColor=3C3836)
 ![Linux](https://img.shields.io/badge/Linux-B8BB26?style=for-the-badge&logo=linux&logoColor=FBF1C7&labelColor=3C3836)
 ![Shell](https://img.shields.io/badge/Shell-8EC07C?style=for-the-badge&logo=gnu-bash&logoColor=FBF1C7&labelColor=3C3836)
-![React](https://img.shields.io/badge/React-83A598?style=for-the-badge&logo=react&logoColor=FBF1C7&labelColor=3C3836)
+![Rust](https://img.shields.io/badge/Rust-83A598?style=for-the-badge&logo=rust&logoColor=FBF1C7&labelColor=3C3836)
 
 </div>
 
