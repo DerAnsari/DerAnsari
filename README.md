@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Iosevka&size=22&duration=3000&pause=1000&color=EBDBB2&background=282828&center=true&vCenter=true&width=500&lines=Hello+There..;Low+Level..;Embedded+System+Engineering..;Linux/Foss+Enthusiasm..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Iosevka&size=22&duration=3000&pause=1000&color=EBDBB2&background=282828&center=true&vCenter=true&width=500&lines=Hello+There..;Low+Level..;Computer+Graphics..;Linux/Foss+Enthusiasm..)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,13 +16,12 @@
 
 <div align="center">
 
-![NumPy](https://img.shields.io/badge/NumPy-D3869B?style=for-the-badge&logo=numpy&logoColor=FBF1C7&labelColor=3C3836)
-![Pandas](https://img.shields.io/badge/Pandas-FABD2F?style=for-the-badge&logo=pandas&logoColor=FBF1C7&labelColor=3C3836)
 ![Python](https://img.shields.io/badge/Python-FABD2F?style=for-the-badge&logo=python&logoColor=FBF1C7&labelColor=3C3836)
 ![C++](https://img.shields.io/badge/C++-FB4934?style=for-the-badge&logo=cplusplus&logoColor=FBF1C7&labelColor=3C3836)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=FBF1C7&labelColor=3C3836)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000&labelColor=3C3836)
 ![Linux](https://img.shields.io/badge/Linux-B8BB26?style=for-the-badge&logo=linux&logoColor=FBF1C7&labelColor=3C3836)
 ![Shell](https://img.shields.io/badge/Shell-8EC07C?style=for-the-badge&logo=gnu-bash&logoColor=FBF1C7&labelColor=3C3836)
-![Rust](https://img.shields.io/badge/Rust-83A598?style=for-the-badge&logo=rust&logoColor=FBF1C7&labelColor=3C3836)
 
 </div>
 
