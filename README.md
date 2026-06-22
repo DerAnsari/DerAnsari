@@ -86,7 +86,7 @@ $ cat ~/.stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerAnsari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9&langs_count=5" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=DerAnsari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9&hide_rank=true&hide=stars" width="100%" />
+
 
 </td>
 </tr>
@@ -102,7 +102,7 @@ $ now-playing
 
 <!-- setup: https://github.com/kittinan/spotify-github-profile -->
 <!-- replace the src below with your widget URL after setup   -->
-<img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=7F77DD&bar_color_cover=false" width="360" />
+<img src="https://github-readme-lastfm.vercel.app/api?username=Plaguses&theme=tokyonight" width="360" />
 
 </div>
 
@@ -115,8 +115,9 @@ $ now-playing
 </div>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
-
 <div align="center">
+  <br>
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarmad-ansari-ab57862b9)
   [![Portfolio](https://img.shields.io/badge/portfolio-7F77DD?style=flat-square&logo=vercel&logoColor=white)](https://sarmad-project.vercel.app)
   [![sophos.log](https://img.shields.io/badge/sophos.log-121011?style=flat-square&logo=ghost&logoColor=white)](https://sophos.log)
