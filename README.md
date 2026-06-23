@@ -59,9 +59,9 @@
 <br/>
 <p align='center'>
   <a href="#"><img src="https://img.shields.io/badge/%23-2d2b55?style=for-the-badge"/></a> 
-  <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-2d2b55?style=for-the-badge"/></a> 
+  <a href="https://sarmad-project.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-2d2b55?style=for-the-badge"/></a> 
   <a href="https://x.com/plagus_sophos"><img src="https://img.shields.io/badge/TWITTER-2d2b55?style=for-the-badge"/></a> 
-  <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-2d2b55?style=for-the-badge"/></a>
+  <a href="https://www.instagram.com/sophos.log/"><img src="https://img.shields.io/badge/INSTAGRAM-2d2b55?style=for-the-badge"/></a>
   <a href="https://linkedin.com/in/sarmad-ansari-ab57862b9"><img src="https://img.shields.io/badge/LINKEDIN-2d2b55?style=for-the-badge"/></a> 
   <a href="#"><img src="https://img.shields.io/badge/%23-2d2b55?style=for-the-badge"/></a>
 </p>
