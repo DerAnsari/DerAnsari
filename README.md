@@ -65,7 +65,7 @@
   <a href="https://linkedin.com/in/sarmad-ansari-ab57862b9"><img src="https://img.shields.io/badge/LINKEDIN-2d2b55?style=for-the-badge"/></a> 
   <a href="#"><img src="https://img.shields.io/badge/%23-2d2b55?style=for-the-badge"/></a>
 </p>
-<img src="./assets/metro-miku.jpg" width="100%" align="center" />
+<img src="./assets/miku.png" width="100%" align="center" />
 <p align="center">
   <i>"The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy."</i>
 </p>
