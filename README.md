@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:2d2b55,100:7F77DD&height=200&section=header&text=DerAnsari%20%E2%9C%A6&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Systems%20%2F%20Graphics%20%2F%20Embedded%20%2F%20Linux&descSize=16&descAlignY=55" width="100%"/>
-<div>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000005,30:0a0a2e,60:1a0a3e,100:4B0082&height=220&section=header&text=DerAnsari%20✦&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Systems%20%2F%20Graphics%20%2F%20Embedded%20%2F%20Linux&descSize=17&descAlignY=57&stroke=9D77FF&strokeWidth=3" width="100%"/><div>  
   <div align-"center">
     <img width="337" src="./assets/bioPic.png" align=right />
     <img src="./assets/retro.gif" width="488" />
