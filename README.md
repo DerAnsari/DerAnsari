@@ -53,13 +53,17 @@
 <img src="./assets/Stats.png" width="100%" />
 
 <!-- your stats content here, e.g. github-readme-stats widgets -->
-
-</td>
+<img src="https://github-readme-stats.vercel.app/api?username=DerAnsari&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=7F77DD&icon_color=32C6BD&text_color=c9d1d9" width="100%" /></td>
 </tr>
 </table>
 <br/>
 <p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-4b0f08?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-4b0f08?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-4b0f08?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-4b0f08?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-4b0f08?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-4b0f08?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-4b0f08?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-4b0f08?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-4b0f08?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/%23-2d2b55?style=for-the-badge"/></a> 
+  <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-2d2b55?style=for-the-badge"/></a> 
+  <a href="https://x.com/plagus_sophos"><img src="https://img.shields.io/badge/TWITTER-2d2b55?style=for-the-badge"/></a> 
+  <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-2d2b55?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/sarmad-ansari-ab57862b9"><img src="https://img.shields.io/badge/LINKEDIN-2d2b55?style=for-the-badge"/></a> 
+  <a href="#"><img src="https://img.shields.io/badge/%23-2d2b55?style=for-the-badge"/></a>
 </p>
 <img src="./assets/metro-miku.jpg" width="100%" align="center" />
 <p align="center">
