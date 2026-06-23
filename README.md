@@ -50,7 +50,7 @@
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/Stats.png" width="100%" />
+<img src="./assets/Stat.png" width="100%" />
 
 <!-- your stats content here, e.g. github-readme-stats widgets -->
 <img src="https://github-readme-stats.vercel.app/api?username=DerAnsari&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=7F77DD&icon_color=32C6BD&text_color=c9d1d9" width="100%" /></td>
